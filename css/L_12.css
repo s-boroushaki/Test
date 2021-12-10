@@ -1,0 +1,31 @@
+/* ----------------- Custom Styles ----------------- */
+/* ----------------- Dr S. Boroushaki ----------------- */
+body *{
+	
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+		
+	
+}
+
+.bg-secondary {
+    background-color: #666666!important;
+}
+
+#inner-wrapper {
+	
+	
+	margin-top: 10px;
+	padding: 6px;
+	border-width: 1px; 
+	border-style: solid;
+	border-color: #CCCCCC #CCCCCC #999999;
+	box-shadow: 0 2px 5px rgba(64, 64, 64, 0.1);
+}
+
+#myMap {
+	height: 400px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #e6e6e6;
+
+}
